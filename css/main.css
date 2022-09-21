@@ -7,7 +7,7 @@ body{
 }
 
 h1 {
-  color: #ff0057;
+  color: #B0003B;
 }
 
 .hover-color {
@@ -16,11 +16,11 @@ h1 {
 }
 
 .hover-color:hover {
-  color: #ff0057 !important;
+  color: #B0003B !important;
 }
 
 .hover-color.active {
-  color: #ff0057 !important;
+  color: #B0003B !important;
 }
 
 
@@ -46,7 +46,7 @@ h1 {
 }
 
 .container .courses-card:hover .face.face1{
-  background: #ff0057;
+  background: #B0003B;
   transform: translateY(0);
 }
 
